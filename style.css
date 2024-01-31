@@ -22,12 +22,13 @@ a{
 }
 
 .colbootgrid1{
-    background-color: #0B60B0;
+    /*background-color: #0B60B0;*/
+    background: linear-gradient(to bottom, #0066ff 20%, #0033cc 100%);
     color: white;
 }
 
 .colbootgrid2{
-    background-color: #DCF2F1;
+    background-color: white;
     /*color: white;*/
 }
 
